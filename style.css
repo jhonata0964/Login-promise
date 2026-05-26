@@ -1,0 +1,23 @@
+/*eventualmente eu ainda vou arrumar esse css */
+
+body{
+  font: 15pt black arial;
+  margin: 250px 0 0 75px;
+  background-color: #0885FF;
+}
+
+input{
+  
+  font-size: 16px;
+}
+button{
+  margin-top: 20px;
+  font-size: 16px;
+}
+.divPrincpal{
+  background-color: #00C7FF;
+  width: 300px;
+  height: 400px;
+  padding: 50px 10px 30px 70px;
+  border-radius: 10px;
+}
