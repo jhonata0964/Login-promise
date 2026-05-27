@@ -7,6 +7,7 @@ como na descrição esse repositorio foi feito para criar uma página de login
  agora a melhor parte: isso foi feito com o promise do js assíncrono
  feito também com a ajuda do set timout para parecer que o js ta perucurando
  na internet.
+ OBS: ainda nao sei modificar o css para todos os tipos de dispositivos 
  
  as coisas menos importante de mencionar:
  o botao nao fica clicavel quando esta analisando.
